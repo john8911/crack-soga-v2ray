@@ -1,19 +1,9 @@
-# crack-soga-v2ray
- A cracked version of soga v2ray backend
 
-> 破解版可能存在各种未知的风险，请自行判断后使用，本人不对使用本软件产生的各种后果负责。
-
-# 本版本是肮脏的破解版本，只是自己学习使用，请支持原版
-
-[soga 后端是一个同时支持 v2ray、Trojan、Shadowsocks 的后端，社区版最高支持88用户，优化了长时间运行的内存占用。](https://github.com/sprov065/soga)
-
-# 破解二进制文件下载地址：[release](https://github.com/RManLuo/crack-soga-v2ray/releases)
+# 当前破解版并不是完美，不正确的配置，有风险被终止连接，并泄露节点和面板ip，请支持正版。
+# 作者已永久停止更新。
 
 # 使用教程
-
-## 启用破解
-
-启用破解版只需在soga_key处输入任意字符即可，如留空则为原版社区版本。
+在soga_key处输入任意字符即可，如留空则为原版社区版本。
 
 ## 完整教程
 
