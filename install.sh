@@ -104,7 +104,7 @@ install_soga() {
         fi
     else
         last_version=$1
-        url="https://github.com/RManLuo/crack-soga-v2ray/releases/download/${last_version}/soga-cracked-linux64.tar.gz"
+        url="https://github.com/john8911/crack-soga-v2ray/releases/download/${last_version}/soga-cracked-linux64.tar.gz"
         echo -e "开始安装 soga v$1"
         wget -N --no-check-certificate -O /usr/local/soga.tar.gz ${url}
         if [[ $? -ne 0 ]]; then
